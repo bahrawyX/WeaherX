@@ -1,0 +1,52 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled files
+/build
+/dist
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE and text editor files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Testing
+/coverage
+/.nyc_output
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Yarn v2
+.yarn/cache
+.yarn/unplugged
+.yarn/build-state.yml
+.yarn/install-state.gz
+
+# ESLint
+/.eslintcache
+
+# TypeScript
+*.tsbuildinfo
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# Node.js Debugging
+node_modules/
